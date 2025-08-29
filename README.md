@@ -1,2 +1,3 @@
 # Excel-Healthcare-analysis-and-Insights
+Analyzed a comprehensive healthcare dataset covering patient profiles, medical history, and hospitalization details using Microsoft Excel. Performed data cleaning, transformation, and integration with advanced Excel functions (VLOOKUP, Pivot Tables, Conditional Formatting). Built an interactive dashboard to visualize patient demographics, BMI/Diabetes categories, healthcare costs, and hospital tier performance. Delivered actionable insights on patient health trends, cost variations, and treatment outcomes to support data-driven decision-making in healthcare.
 
